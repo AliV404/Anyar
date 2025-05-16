@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\novbe2\\source\\repos\\Anyar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|c:\\users\\novbe2\\source\\repos\\anyar\\anyar\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|solutionrelative:anyar\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|c:\\users\\novbe2\\source\\repos\\anyar\\anyar\\viewmodels\\employee\\getemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|solutionrelative:anyar\\viewmodels\\employee\\getemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|c:\\users\\novbe2\\source\\repos\\anyar\\anyar\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|solutionrelative:anyar\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|c:\\users\\novbe2\\source\\repos\\anyar\\anyar\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|solutionrelative:anyar\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|c:\\users\\novbe2\\source\\repos\\anyar\\anyar\\areas\\admin\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|solutionrelative:anyar\\areas\\admin\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|c:\\users\\novbe2\\source\\repos\\anyar\\anyar\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|solutionrelative:anyar\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|c:\\users\\novbe2\\source\\repos\\anyar\\anyar\\viewmodels\\employee\\updateemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|solutionrelative:anyar\\viewmodels\\employee\\updateemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|c:\\users\\novbe2\\source\\repos\\anyar\\anyar\\viewmodels\\employee\\createemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|solutionrelative:anyar\\viewmodels\\employee\\createemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|c:\\users\\novbe2\\source\\repos\\anyar\\anyar\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|solutionrelative:anyar\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|c:\\users\\novbe2\\source\\repos\\anyar\\anyar\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|solutionrelative:anyar\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|c:\\users\\novbe2\\source\\repos\\anyar\\anyar\\viewmodels\\position\\getpositionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|solutionrelative:anyar\\viewmodels\\position\\getpositionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|c:\\users\\novbe2\\source\\repos\\anyar\\anyar\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|solutionrelative:anyar\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|c:\\users\\novbe2\\source\\repos\\anyar\\anyar\\areas\\admin\\views\\position\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|solutionrelative:anyar\\areas\\admin\\views\\position\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|c:\\users\\novbe2\\source\\repos\\anyar\\anyar\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|solutionrelative:anyar\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|c:\\users\\novbe2\\source\\repos\\anyar\\anyar\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|solutionrelative:anyar\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|c:\\users\\novbe2\\source\\repos\\anyar\\anyar\\areas\\admin\\views\\position\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|solutionrelative:anyar\\areas\\admin\\views\\position\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|c:\\users\\novbe2\\source\\repos\\anyar\\anyar\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|solutionrelative:anyar\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|c:\\users\\novbe2\\source\\repos\\anyar\\anyar\\viewmodels\\position\\updatepositionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|solutionrelative:anyar\\viewmodels\\position\\updatepositionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|c:\\users\\novbe2\\source\\repos\\anyar\\anyar\\viewmodels\\position\\createpositionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9210EEE-E051-4BC8-9056-9EDA7B205D97}|Anyar\\Anyar.csproj|solutionrelative:anyar\\viewmodels\\position\\createpositionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 321,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetEmployeeVM.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\ViewModels\\Employee\\GetEmployeeVM.cs",
+              "RelativeDocumentMoniker": "Anyar\\ViewModels\\Employee\\GetEmployeeVM.cs",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\ViewModels\\Employee\\GetEmployeeVM.cs",
+              "RelativeToolTip": "Anyar\\ViewModels\\Employee\\GetEmployeeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:16:42.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateEmployeeVM.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\ViewModels\\Employee\\CreateEmployeeVM.cs",
+              "RelativeDocumentMoniker": "Anyar\\ViewModels\\Employee\\CreateEmployeeVM.cs",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\ViewModels\\Employee\\CreateEmployeeVM.cs",
+              "RelativeToolTip": "Anyar\\ViewModels\\Employee\\CreateEmployeeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:17:32.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Anyar\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Anyar\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAUwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:25:44.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Anyar\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Anyar\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T12:12:38.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\Areas\\Admin\\Views\\Position\\Create.cshtml",
+              "RelativeDocumentMoniker": "Anyar\\Areas\\Admin\\Views\\Position\\Create.cshtml",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\Areas\\Admin\\Views\\Position\\Create.cshtml",
+              "RelativeToolTip": "Anyar\\Areas\\Admin\\Views\\Position\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T12:12:55.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Anyar\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Anyar\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T12:12:26.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "Anyar\\Models\\Position.cs",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\Models\\Position.cs",
+              "RelativeToolTip": "Anyar\\Models\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:13:36.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "Anyar\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "Anyar\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:29:50.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateEmployeeVM.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
+              "RelativeDocumentMoniker": "Anyar\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
+              "RelativeToolTip": "Anyar\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:17:39.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "RelativeDocumentMoniker": "Anyar\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "RelativeToolTip": "Anyar\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T12:12:33.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "RelativeDocumentMoniker": "Anyar\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "RelativeToolTip": "Anyar\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwDoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T12:12:52.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Anyar\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\Models\\Employee.cs",
+              "RelativeToolTip": "Anyar\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:17:47.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetPositionVM.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\ViewModels\\Position\\GetPositionVM.cs",
+              "RelativeDocumentMoniker": "Anyar\\ViewModels\\Position\\GetPositionVM.cs",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\ViewModels\\Position\\GetPositionVM.cs",
+              "RelativeToolTip": "Anyar\\ViewModels\\Position\\GetPositionVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:30:01.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileValidator.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\Utilities\\Extensions\\FileValidator.cs",
+              "RelativeDocumentMoniker": "Anyar\\Utilities\\Extensions\\FileValidator.cs",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\Utilities\\Extensions\\FileValidator.cs",
+              "RelativeToolTip": "Anyar\\Utilities\\Extensions\\FileValidator.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwB0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:33:39.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FileSize.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\Utilities\\Enums\\FileSize.cs",
+              "RelativeDocumentMoniker": "Anyar\\Utilities\\Enums\\FileSize.cs",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\Utilities\\Enums\\FileSize.cs",
+              "RelativeToolTip": "Anyar\\Utilities\\Enums\\FileSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:33:52.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\Areas\\Admin\\Views\\Position\\Update.cshtml",
+              "RelativeDocumentMoniker": "Anyar\\Areas\\Admin\\Views\\Position\\Update.cshtml",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\Areas\\Admin\\Views\\Position\\Update.cshtml",
+              "RelativeToolTip": "Anyar\\Areas\\Admin\\Views\\Position\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T12:27:18.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PositionController.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "RelativeDocumentMoniker": "Anyar\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "RelativeToolTip": "Anyar\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:25:26.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdatePositionVM.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\ViewModels\\Position\\UpdatePositionVM.cs",
+              "RelativeDocumentMoniker": "Anyar\\ViewModels\\Position\\UpdatePositionVM.cs",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\ViewModels\\Position\\UpdatePositionVM.cs",
+              "RelativeToolTip": "Anyar\\ViewModels\\Position\\UpdatePositionVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:15:05.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreatePositionVM.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\ViewModels\\Position\\CreatePositionVM.cs",
+              "RelativeDocumentMoniker": "Anyar\\ViewModels\\Position\\CreatePositionVM.cs",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Anyar\\Anyar\\ViewModels\\Position\\CreatePositionVM.cs",
+              "RelativeToolTip": "Anyar\\ViewModels\\Position\\CreatePositionVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:14:17.483Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

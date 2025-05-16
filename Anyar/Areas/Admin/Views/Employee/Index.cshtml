@@ -1,0 +1,65 @@
+﻿@model List<GetEmployeeVM>
+@{
+    int count = 0;
+}
+
+<div class="row">
+    <div class="col-lg-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Category Table</h4>
+                <p class="card-description">
+                    <a asp-action="Create" class="btn btn-success">Create</a>
+                </p>
+                <div class="table-responsive">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>
+                                    No
+                                </th>
+                                <th>
+                                    Full Name
+                                </th>
+                                <th>
+                                    Position Name
+                                </th>
+                                <th>
+                                    Image
+                                </th>
+                                <th>
+                                    Settings
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (GetEmployeeVM employeeVM in Model)
+                            {
+                                count += 1;
+                                <tr>
+                                    <td class="py-1">
+                                        @count
+                                    </td>
+                                    <td>
+                                        @employeeVM.Name @employeeVM.Surname
+                                    </td>
+                                    <td>
+                                        @employeeVM.PositionName
+                                    </td>
+                                    <td>
+                                        <img src="~/assets/img/team/@employeeVM.Image" />
+                                    </td>
+                                    <td>
+                                        <a class="btn btn-warning" asp-action="update" asp-route-id="@employeeVM.Id"><i class="mdi mdi-table-edit"></i></a>
+                                        <a class="btn btn-danger" asp-action="delete" asp-route-id="@employeeVM.Id"><i class="mdi mdi-delete-sweep"></i></a>
+                                        <a class="btn btn-primary"><i class="mdi mdi-open-in-new"></i></a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
