@@ -1,5 +1,47 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿@model UpdateEmployeeVM
+
+<div class="row">
+    <div class="col-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Update Employee</h4>
+                <form enctype="multipart/form-data" method="post" class="forms-sample">
+                    <div class="form-group">
+                        <img src="~/assets/img/team/@Model.Image" style="height:150px; length:100px;"/>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Photo">Photo</label>
+                        <input accept="image/*" asp-for="Photo" class="form-control" placeholder="Photo">
+                        <span asp-validation-for="Photo" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Name">Name</label>
+                        <input asp-for="Name" class="form-control" placeholder="Name">
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Surname">Surname</label>
+                        <input asp-for="Surname" class="form-control" placeholder="Surname">
+                        <span asp-validation-for="Surname" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="PositionId">Position</label>
+                        <select asp-for="PositionId" class="form-control" asp-items="@(new SelectList(Model.Positions,nameof(Position.Id), nameof(Position.Name)))">
+                            <option selected disabled>
+                                Choose Position
+                            </option>
+                        </select>
+                        <span asp-validation-for="PositionId" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Description">Description</label>
+                        <textarea rows="7" asp-for="Description" class="form-control" placeholder="Description"></textarea>
+                        <span asp-validation-for="Description" class="text-danger"></span>
+                    </div>
+                    <button type="submit" class="btn btn-primary me-2">Submit</button>
+                    <button asp-action="" class="btn btn-light">Cancel</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

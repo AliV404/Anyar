@@ -78,7 +78,7 @@ namespace Anyar.Areas.Admin.Controllers
 
             if (result)
             {
-                ModelState.AddModelError(nameof(UpdatePositionVM.Name), "Category already exists!");
+                ModelState.AddModelError(nameof(UpdatePositionVM.Name), "Position already exists!");
                 return View();
             }
 

@@ -107,8 +107,11 @@ wwwroot\assets\img\portfolio\product-1.jpg
 wwwroot\assets\img\portfolio\product-2.jpg
 wwwroot\assets\img\portfolio\product-3.jpg
 wwwroot\assets\img\services.jpg
+wwwroot\assets\img\team\011b1d1c-a093-4f40-b2ff-c0ac491ba68cali-valiyev.jpg
+wwwroot\assets\img\team\57b4a089-cefe-4b82-8b72-37499df7b208random person2.jpg
 wwwroot\assets\img\team\69c6e45b-bf23-4e44-b159-71713801ef26vegetables.jpg
 wwwroot\assets\img\team\a0e9116c-03d4-42f2-b78a-ff3650acf118person 1.jpg
+wwwroot\assets\img\team\caaaa454-008c-4f65-9288-136421fbe6d0ali.jpg
 wwwroot\assets\img\team\team-1.jpg
 wwwroot\assets\img\team\team-2.jpg
 wwwroot\assets\img\team\team-3.jpg

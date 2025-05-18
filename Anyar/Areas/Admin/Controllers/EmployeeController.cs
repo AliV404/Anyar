@@ -83,14 +83,14 @@ namespace Anyar.Areas.Admin.Controllers
         public async Task<IActionResult> Update(int? id)
         {
             if (id == null && id < 1) return BadRequest();
-            
+
             Employee? employee = await _context.Employees.FirstOrDefaultAsync(e => e.Id == id);
             if (employee == null) return NotFound();
 
             UpdateEmployeeVM employeeVM = new UpdateEmployeeVM
             {
                 Name = employee.Name,
-                Surname=employee.Surname,
+                Surname = employee.Surname,
                 Description = employee.Description,
                 PositionId = employee.PositionId,
                 Image = employee.Image,
@@ -102,7 +102,59 @@ namespace Anyar.Areas.Admin.Controllers
         [HttpPost]
         public async Task<IActionResult> Update(int? id, CreateEmployeeVM employeeVM)
         {
+            employeeVM.Positions = _context.Positions.ToList();
 
+            if (!ModelState.IsValid) return View(employeeVM);
+
+            if (employeeVM.Photo is not null)
+            {
+                if (!employeeVM.Photo.ValidateType("image/"))
+                {
+                    ModelState.AddModelError(nameof(CreateEmployeeVM.Photo), "File type is incorrect.");
+                    return View(employeeVM);
+                }
+                if (!employeeVM.Photo.ValidateSize(FileSize.MB, 2))
+                {
+                    ModelState.AddModelError(nameof(CreateEmployeeVM.Photo), "Cant be > 2MB");
+                    return View(employeeVM);
+                }
+            }
+
+            bool positionResult = await _context.Positions.AnyAsync(p => p.Id == employeeVM.PositionId);
+            if (!positionResult)
+            {
+                ModelState.AddModelError(nameof(CreateEmployeeVM.PositionId), "Position Doesnt exist");
+                return View(employeeVM);
+            }
+
+            Employee? existed = await _context.Employees.FirstOrDefaultAsync(e => e.Id == id);
+
+            if (employeeVM.Photo is not null)
+            {
+                existed.Image.DeleteFile(_env.WebRootPath, "assets", "img", "team");
+            }
+            existed.Name = employeeVM.Name;
+            existed.Surname = employeeVM.Surname;
+            existed.Description = employeeVM.Description;
+            existed.PositionId = employeeVM.PositionId.Value;
+            existed.Image = await employeeVM.Photo.CreateFileAsync(_env.WebRootPath, "assets", "img", "team");
+
+            await _context.SaveChangesAsync();
+            return RedirectToAction("Index");
+        }
+
+        public async Task<IActionResult> Delete(int? id)
+        {
+            if (id == null && id < 1) return BadRequest();
+
+            Employee? employee = await _context.Employees.FirstOrDefaultAsync(e => e.Id == id);
+
+            if (employee != null) return NotFound();
+
+            _context.Remove(employee);
+            _context.SaveChanges();
+
+            return RedirectToAction("Index");
         }
     }
 }
